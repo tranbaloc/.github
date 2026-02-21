@@ -1,8 +1,8 @@
-# Xin chào, Tôi là Trần Bá Lộc 👋
+# Hi, Tôi là Trần Bá Lộc 👋
 
 <div align="center">
 
-### Full Stack Developer | Người đam mê công nghệ
+### Chuyên gia Phát triển phần mềm | Chuyên gia AI | Thiết kế UI/UX | Chiến lược sản phẩm | Chuyên viên phân tích nghiệp vụ | TikTok Idol Agency & Livestream
 
 [![Website](https://img.shields.io/badge/Website-tranbaloc.io.vn-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tranbaloc.io.vn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranbaloc)
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Về Tôi
+## 👨‍💻 Đôi điều về bản thân
 
 Với 17+ năm kinh nghiệm, tôi kết nối công nghệ và kinh doanh, tạo ra giải pháp đổi mới mang lại các giá trị thực tế.
 
@@ -55,11 +55,11 @@ Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sá
 
 ---
 
-## 💼 Kết Nối Với Tôi
+## 💼 Thông tin liên hệ
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-tbl.io.vn-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tbl.io.vn)
+[![Website](https://img.shields.io/badge/🌐_Website-tranbaloc.io.vn-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tranbaloc.io.vn)
 [![Email](https://img.shields.io/badge/📧_Email-baloctran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baloctran@gmail.com)
 [![Zalo](https://img.shields.io/badge/💬_Zalo-0937154400-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0937154400)
 
@@ -69,7 +69,7 @@ Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sá
 
 <div align="center">
 
-### ⚡ Câu Nói Hay
+### ⚡ Tuyên ngôn
 *"Nhằm mang công nghệ mới nhất đến với khách hàng. Sứ mệnh của tôi là tạo ra các giải pháp phần mềm mang lại giá trị thực tế cho khách hàng."*
 
 **Lượt Truy Cập:**
