@@ -30,7 +30,6 @@ Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sá
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -39,6 +38,10 @@ Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sá
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -48,21 +51,13 @@ Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sá
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranbaloc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baloctran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=tranbaloc&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=baloctran&theme=radical&hide_border=true&background=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranbaloc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baloctran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
-
----
-
-## 🚀 Dự Án Nổi Bật
-
-- **[Tên Dự Án 1](https://github.com/tranbaloc/project1)** - Mô tả ngắn gọn về dự án
-- **[Tên Dự Án 2](https://github.com/tranbaloc/project2)** - Mô tả ngắn gọn về dự án
-- **[Tên Dự Án 3](https://github.com/tranbaloc/project3)** - Mô tả ngắn gọn về dự án
 
 ---
 
