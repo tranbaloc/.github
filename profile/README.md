@@ -14,7 +14,9 @@
 
 ## 👨‍💻 Về Tôi
 
-Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sáng tạo và khám phá công nghệ mới. Luôn sẵn sàng học hỏi và đóng góp cho các dự án ý nghĩa.
+Với 17+ năm kinh nghiệm, tôi kết nối công nghệ và kinh doanh, tạo ra giải pháp đổi mới mang lại các giá trị thực tế.
+
+Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sáng tạo và khám phá công nghệ mới. Luôn sẵn sàng học hỏi và đóng góp cho các dự án ý nghĩa và giá trị.
 
 - 🔭 Hiện đang làm việc trên các dự án thú vị
 - 🌱 Đang học các công nghệ mới và best practices
@@ -47,20 +49,6 @@ Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sá
 
 ---
 
-## 📊 Thống Kê GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baloctran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=baloctran&theme=radical&hide_border=true&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baloctran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ## 📈 Biểu Đồ Đóng Góp
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baloctran&theme=radical&hide_border=true&bg_color=0D1117)
@@ -71,8 +59,9 @@ Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sá
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-tranbaloc.io.vn-00D9FF?style=for-the-badge)](https://tranbaloc.io.vn)
-[![Portfolio](https://img.shields.io/badge/📁_Portfolio-Xem-FF6B6B?style=for-the-badge)](https://tranbaloc.io.vn)
+[![Website](https://img.shields.io/badge/🌐_Website-tbl.io.vn-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tbl.io.vn)
+[![Email](https://img.shields.io/badge/📧_Email-baloctran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baloctran@gmail.com)
+[![Zalo](https://img.shields.io/badge/💬_Zalo-0937154400-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0937154400)
 
 </div>
 
@@ -81,7 +70,7 @@ Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sá
 <div align="center">
 
 ### ⚡ Câu Nói Hay
-*"Code giống như khiếu hài hước. Khi bạn phải giải thích nó, thì nó đã không còn hay nữa."*
+*"Nhằm mang công nghệ mới nhất đến với khách hàng. Sứ mệnh của tôi là tạo ra các giải pháp phần mềm mang lại giá trị thực tế cho khách hàng."*
 
 **Lượt Truy Cập:**
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tranbaloc.tranbaloc)
