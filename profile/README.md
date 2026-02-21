@@ -4,9 +4,9 @@
 
 ### Chuyên gia Phát triển phần mềm | Chuyên gia AI | Thiết kế UI/UX | Chiến lược sản phẩm | Chuyên viên phân tích nghiệp vụ | TikTok Idol Agency & Livestream
 
-[![Website](https://img.shields.io/badge/Website-tranbaloc.io.vn-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tranbaloc.io.vn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranbaloc)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tranbaloc.io.vn)
+[![Website](https://img.shields.io/badge/🌐_Website-tranbaloc.io.vn-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tranbaloc.io.vn)
+[![Email](https://img.shields.io/badge/📧_Email-baloctran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baloctran@gmail.com)
+[![Zalo](https://img.shields.io/badge/💬_Zalo-0937154400-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0937154400)
 
 </div>
 
