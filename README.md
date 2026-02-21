@@ -68,7 +68,7 @@ Tôi là một developer đam mê, yêu thích xây dựng các giải pháp sá
 
 ## 📈 Biểu Đồ Đóng Góp
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tranbaloc&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baloctran&theme=radical&hide_border=true&bg_color=0D1117)
 
 ---
 
